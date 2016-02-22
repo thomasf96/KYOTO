@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Main" cloudDestinationProperty="Main" title="Kyoto" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Hi World" >
+  </component>
+<command name="Mostrar solicitud" id="8" action="Mostrar solicitud" backCommand="false" /><command name="Registro" id="6" action="Registro" backCommand="false" /><command name="buscar coche" id="5" action="Buscar coche" backCommand="false" /></component>

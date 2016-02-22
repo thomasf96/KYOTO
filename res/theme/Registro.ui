@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Registro" cloudDestinationProperty="Registro" layout="BoxLayout" boxLayoutAxis="Y" title="Registro de usuario" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Nombre" >
+  </component>
+  <component type="TextArea" name="TextArea" cloudBoundProperty="text" cloudDestinationProperty="TextArea" text="" >
+  </component>
+  <component type="Label" name="Label1" cloudDestinationProperty="Label1" text="Apellidos" >
+  </component>
+  <component type="TextArea" name="TextArea1" cloudBoundProperty="text" cloudDestinationProperty="TextArea1" text="" >
+  </component>
+  <component type="TextArea" name="TextArea2" cloudBoundProperty="text" cloudDestinationProperty="TextArea2" text="" >
+  </component>
+  <component type="Label" name="Label2" cloudDestinationProperty="Label2" text="Email" >
+  </component>
+  <component type="TextArea" name="TextArea3" cloudBoundProperty="text" cloudDestinationProperty="TextArea3" text="" >
+  </component>
+  <component type="Label" name="Label3" cloudDestinationProperty="Label3" text="Clave" >
+  </component>
+  <component type="TextArea" name="TextArea4" cloudBoundProperty="text" cloudDestinationProperty="TextArea4" text="" >
+  </component>
+  <component type="Label" name="Label4" cloudDestinationProperty="Label4" text="Ubicacion" >
+  </component>
+  <component type="Button" name="Button" cloudDestinationProperty="Button" text="Obtener ubicaci&#xf3;n" >
+  </component>
+  <component type="Label" name="Label5" cloudDestinationProperty="Label5" text="Turnos" >
+  </component>
+  <component type="RadioButton" name="RadioButton" cloudDestinationProperty="RadioButton" text="Turno ma&#xf1;ana" >
+  </component>
+  <component type="RadioButton" name="RadioButton1" cloudDestinationProperty="RadioButton1" text="Turno de tarde" >
+  </component>
+  <component type="CheckBox" name="CheckBox" cloudDestinationProperty="CheckBox" text="Tengo coche" >
+  </component>
+  <component type="CheckBox" name="CheckBox1" cloudDestinationProperty="CheckBox1" text="Busco coche" >
+  </component>
+</component>
